@@ -1,0 +1,6 @@
+C:\Code\csharp\sortingpractice\sortingpractice\bin\Debug\sortingpractice.exe.config
+C:\Code\csharp\sortingpractice\sortingpractice\bin\Debug\sortingpractice.exe
+C:\Code\csharp\sortingpractice\sortingpractice\bin\Debug\sortingpractice.pdb
+C:\Code\csharp\sortingpractice\sortingpractice\obj\Debug\sortingpractice.csprojResolveAssemblyReference.cache
+C:\Code\csharp\sortingpractice\sortingpractice\obj\Debug\sortingpractice.exe
+C:\Code\csharp\sortingpractice\sortingpractice\obj\Debug\sortingpractice.pdb
